@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da379ea4-267a-4268-b5c6-e7ae65ffbad6" name="Default" comment="" />
+    <list default="true" id="da379ea4-267a-4268-b5c6-e7ae65ffbad6" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -248,16 +250,6 @@
               <item name="cnblog" type="b2602c69:ProjectViewProjectNode" />
               <item name="cnblog" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="cnblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cnblog" type="462c0819:PsiDirectoryNode" />
-              <item name="cnblog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cnblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cnblog" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -346,7 +338,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.5415987" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43954247" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43954247" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
